@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="140" viewBox="0 0 1600 280" role="img" aria-label="Empowered Living Solutions logo">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a237e"/>
+      <stop offset="1" stop-color="#5c6bc0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="280" fill="white"/>
+  <g transform="translate(40,40)">
+    <text x="0" y="90" font-family="Segoe UI, Arial, sans-serif" font-size="96" font-weight="800" fill="url(#grad)">
+      Empowered Living Solutions
+    </text>
+    <rect x="0" y="110" width="1120" height="8" rx="4" fill="#c5cae9"/>
+    <text x="0" y="170" font-family="Segoe UI, Arial, sans-serif" font-size="40" fill="#455a64">Creating Possibilities, Changing Lives</text>
+  </g>
+</svg>
